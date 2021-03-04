@@ -1,16 +1,16 @@
 ### Hi there 👋I'm shikha!
-I am a big-time technology enthusiast and a passionate learner. I generally attempt to learn new things. I'm extremely dynamic via web-based networking media, and attempt to persuade more individuals to join the tech world by indicating what my life resembles in this community.
-<!--
-**TechnicalShikha/TechnicalShikha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech-enthusiast and a passionate learner and coder.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ..mysql,.net.
-- 🌱 I’m currently learning .mysql,c++,.net..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: follow on Instagram,on my id Shikha_art_world...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .interested in painting..
--->
+About me: 
+
+- 🔭 I’m currently working on: mysql,.net.
+- 🌱 I’m currently learning: mysql,c++,.net.
+- 💬 Ask me about:  C & C++
+- 📫 How to reach me: [Instagram](https://www.instagram
+com/Shikha_art_world)..
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm interested in painting.
+
+
+
